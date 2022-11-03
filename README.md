@@ -1,5 +1,13 @@
 # Portfolio
 
+
+
+
+<a href="https://cburnside1385.github.io/Portfolio//" target="_blank">Password generator</a>
+</br>
+
+
+
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -18,6 +26,6 @@ WHEN I resize the page or view the site on various screens and devices
 
 
 
-<img src="./Images/Readme1.PNG" alt="Alt text" title="Start">
-<img src="./Images/Readme2.PNG" alt="Alt text" title="Apps">
-<img src="./Images/Readme3.PNG" alt="Alt text" title="contact">
+<img src="./Content/Images/Readme1.PNG" alt="Alt text" title="Start">
+<img src="./Content/Images/Readme2.PNG" alt="Alt text" title="Apps">
+<img src="./Content/Images/Readme3.PNG" alt="Alt text" title="contact">
