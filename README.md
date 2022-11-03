@@ -3,7 +3,7 @@
 
 
 
-<a href="https://cburnside1385.github.io/Portfolio//" target="_blank">Password generator</a>
+<a href="https://cburnside1385.github.io/Portfolio//" target="_blank">Portfolio</a>
 </br>
 
 
